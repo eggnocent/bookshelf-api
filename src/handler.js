@@ -194,5 +194,5 @@ module.exports = {
   getAllBooksHandler,
   getBookByIdHandler,
   editBookByIdHandler,
-  deleteBookByIdHandler
+  deleteBookByIdHandler,
 };
