@@ -4,7 +4,7 @@ const routes = require('./routes');
 const initializeServer = async () => {
   // Define server configuration
   const config = {
-    port: 9000,
+    port: 5000,
     host: 'localhost',
     routes: {
       cors: {
